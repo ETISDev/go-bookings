@@ -1,0 +1,6 @@
+{{ template "base" . }}
+{{ define "content" }}
+    <main class="container">
+        <h2>Welcome to the Home Page</h2>
+    </main>
+{{ end }}
